@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417734684910",
+    "project_id": "mathologists-chat",
+    "storage_bucket": "mathologists-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417734684910:android:2698e176a04ef8ee6183ff",
+        "android_client_info": {
+          "package_name": "com.example.mathologists_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417734684910-cdomrfb03tvrlk70ese8ronar7souljt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0omZ7WF5hG0YjdHiVlmzNsh19_65fJnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417734684910-cdomrfb03tvrlk70ese8ronar7souljt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
