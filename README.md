@@ -1,4 +1,4 @@
-# mathologists_chat
+# You Chat
 
 A new Flutter project.
 
