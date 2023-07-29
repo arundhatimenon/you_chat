@@ -21,3 +21,8 @@ The YouChat application utilizes the fundamentals of frontend and backend mobile
 The chat app uses the authentication and Firestore Database services provided by the Firebase console, where, with the help of in-built collections and sign-in methods, the database stores user information like email, user ID, full name, etc., on the cloud. To navigate through and accurately map the username and email ID of the logged-in user, we used the Shared preferences library provided as a flutter dependency. We imported it into the HelperFunctions class of the "helperfunction.dart" file. Importing the shared preferences library allowed us to store simple data in key-value pairs, thus correctly mapping and storing the unique username and email id in the database. 
 
 The main highlight of the application- The Chat mechanism was initially tricky. However, with constant efforts and patience, we achieved a seamless, smooth operation and rendition of the messaging mechanism with the help of the Streambuilder widget. In Flutter, the StreamBuilder widget helps build UI components that depend on asynchronous data streams. It allowed us to update the UI automatically whenever the data in the stream changed, thus making the messaging mechanism easy to use and highly integrated.
+
+## Code files
+Access code files from the <b> lib </b> folder.
+
+
