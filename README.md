@@ -4,7 +4,7 @@ YouChat is a simple Flutter-based chat application allowing online educators to 
 
 ## Description
 
-The YouChat App is an innovative and user-friendly communication platform for online educators who wish to connect to their pupils and students hassle-free. The idea of YouChat was something my roommate and I came up with on the spot considering the circumstances that my roommate's mother is an online educator on youtube and wanted a simple, easy-to-use platform to help her students connect and interact with her. YouChat uses the latest technologies and features offered by Flutter, an open-source UI development platform, and the Dart programming language used to develop web and mobile apps, server and desktop applications.![1024](https://github.com/arundhatimenon/you_chat/assets/80510503/5c061f9f-dec2-4e99-b346-32000f26efd7)
+The YouChat App is an innovative and user-friendly communication platform for online educators who wish to connect to their pupils and students hassle-free. The idea of YouChat was something my roommate and I came up with on the spot considering the circumstances that my roommate's mother is an online educator on youtube and wanted a simple, easy-to-use platform to help her students connect and interact with her. YouChat uses the latest technologies and features offered by Flutter, an open-source UI development platform, and the Dart programming language used to develop web and mobile apps, server and desktop applications.![1024](https://github.com/arundhatimenon/you_chat/assets/80510503/5c061f9f-dec2-4e99-b346-32000f26efd7 =250x250)
 
 
 ## Behind YouChat - Ideas and Implementation
