@@ -1,6 +1,6 @@
-# You Chat
+# YouChat: Application for online educators
 
-A new Flutter project.
+YouChat is a simple Flutter-based chat application allowing online educators to interact with their pupils and viewers efficiently.
 
 ## Getting Started
 
